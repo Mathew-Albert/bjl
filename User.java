@@ -2,7 +2,7 @@ package com.stackroute.JWTAuthentication.Model;
 
 
 
-
+edw
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
